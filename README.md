@@ -1,4 +1,6 @@
 #Assignment for post class
+
+# EXERCISE 3:
 # Learning outcome: [variables, print, different data types]
 # ask and store the following in variables:
 # Name, last_name, age, age_of_mother, 3 skills
@@ -13,6 +15,7 @@
 
 
 
+# EXERCISE 4
 # Assignment2 for post class
 #
 # define an empty dictionary# name_dict = {}
